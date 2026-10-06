@@ -1,0 +1,24 @@
+{
+  "clientes": [],
+  "tecnicos": [
+    {
+      "id": "tec-admin",
+      "nome": "Administrador Master",
+      "cargo": "ADMIN",
+      "loginUsuario": "admin",
+      "email": "87informatica@gmail.com",
+      "telefone": "(11) 99999-0000",
+      "especialidades": [
+        "Administração Geral",
+        "Gestão & Homologação",
+        "Supervisão Técnica",
+        "Controle Financeiro"
+      ],
+      "ativo": true,
+      "corIdentificacao": "#6366F1",
+      "comissaoPercentual": 0
+    }
+  ],
+  "estoque": [],
+  "ordens": []
+}
